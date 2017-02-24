@@ -17,13 +17,11 @@ For Mac OS:
 rmagick (version 6): 
 -	Install:
 
-`$ brew install imagemagick@6`
-```
-$ brew link --force imagemagick@6
-```
-```
-$ gem install rmagick
-```
+```$ brew install imagemagick@6```
+
+``$ brew link --force imagemagick@6``
+
+``$ gem install rmagick``
 
 For Mac OS and Linux: 
 
