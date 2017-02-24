@@ -67,32 +67,18 @@ Wanted to have a questionnaire style of app that would assign a user one of the 
 
 1. Brainstormed using Trello 
 
- 
-
 2. Understood the logic of the first set of questions and outcomes 
- 
-
 
 3. Refined our questions and outcomes (removed reptiles and birds from the outcomes). Refocused the questions (removed repetitive questions). 
 
-4. Developed Classes (Score, Questioner, Animal).
-
-E.g. 
-
- 
+4. Developed Classes (Score, Questioner, Animal)
 
 5. Used a set of conditions (if, elsif, else) to develop question and assign responses to potential outcomes. 
 
-E.g. 
+6. Used hashes to define our outcome. 
 
- 
+7. ‘Required’ outcomes document in questions document.
 
-
-5. Used hashes to define our outcome. 
- 
-
-6. ‘Required’ outcomes document in questions document.
-
-7. Unit tested the classes. 
+8. Unit tested the classes. 
 
  
